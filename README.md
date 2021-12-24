@@ -1,2 +1,2 @@
-# Public-Pic-Bed
+### Public-Pic-Bed
 all about markdown pics
