@@ -38,7 +38,7 @@
 
 ## 配置PicGo
 
-直接安装下载下来的 EXE 文件即可，整个安装步骤一路 next 。安装后的软件界面如下：
+直接安装下载下来的 EXE 文件即可，下载地址见此处[PicGo-Setup-2.3.0-x64.exe](https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-Setup-2.3.0-x64.exe))，整个安装步骤一路 next 。安装后的软件界面如下：
 
 ![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/25/171aef00951db23b~tplv-t2oaga2asx-zoom-in-crop-mark:1304:0:0:0.awebp)
 
