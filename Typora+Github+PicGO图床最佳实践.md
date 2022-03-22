@@ -4,16 +4,6 @@
 
 ## 配置Github
 
-```json
-{
-  "repo": "", // 仓库名，格式是username/reponame
-  "token": "", // github token
-  "path": "", // 自定义存储路径，比如img/
-  "customUrl": "", // 自定义域名，注意要加http://或者https://
-  "branch": "" // 分支名，默认是main
-}
-```
-
 **1.** 首先你得有一个GitHub账号。注册GitHub就不用我多言。
 
 **2.** 新建一个仓库Public-Pic-Bed
