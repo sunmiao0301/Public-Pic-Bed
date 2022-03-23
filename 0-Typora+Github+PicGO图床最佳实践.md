@@ -4,15 +4,13 @@
 
 ## 配置Github
 
-**1.** 首先你得有一个GitHub账号。注册GitHub就不用我多言。
+**1.** 有一个GitHub账号
 
 **2.** 新建一个仓库Public-Pic-Bed
 
-**3.** 生成一个token用于PicGo操作你的仓库：
+**3.** 生成一个token用于PicGo操作你的仓库，生成token的具体操作如下：
 
-访问：https://github.com/settings/tokens
-
-然后点击`Generate new token`。
+访问：https://github.com/settings/tokens，然后点击`Generate new token`。
 
 ![img](https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/generate_new_token.png)
 
@@ -35,12 +33,12 @@
 - 接下来配置 GitHub 作为图床，在左侧找到**图床设置**，找到**GitHub图床**。
 - 前边有星号的为必填项，依次填入之前创建的仓库名，注意是：账户名/仓库名；
 
-- 然后填入设定的分支名（创建仓库时如果没有创建其他分支，默认就是 master 分支）；
+- 然后填入设定的分支名（创建仓库时如果没有创建其他分支，默认是 main 分支）；
 - 最后填入之前生成的 token 令牌，点击确定。
 
 ![image-20220322171449805](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203221714895.png)
 
-- 然后找到 PicGo 设置，打开里边的 ***时间戳重命名***，这样可以避免图床在上传文件时，由于文件名相同造成的错误。
+- 然后找到 PicGo 设置，打开里边的**时间戳重命名**，这样可以避免图床在上传文件时，由于文件名相同造成的错误。
 - 然后剩下的配置项可以不用管，参考的文章不建议设置为开机自启，因为等会配置好 typora 后，typora 在上传图片时会自动打开 PicGo 软件。
 - 设置Server
 
@@ -61,4 +59,8 @@
 
 
 
-p.s. 如果出现错误：Failed to fetch，这个错误参考文章经验，一般是由于端口设置错误造成的，此时需要打开 PicGo 设置，点击 **设置 Server**，此时监听的端口号需要与 Typora 中的端口号保持一致，一般默认就是 **36677**，只是需要去查看是否被篡改等等。
+*p.s. 如果出现错误：Failed to fetch，这个错误参考文章经验，一般是由于端口设置错误造成的，此时需要打开 PicGo 设置，点击 **设置 Server**，此时监听的端口号需要与 Typora 中的端口号保持一致，一般默认就是 **36677**，只是需要去查看是否被篡改等等。*
+
+
+
+*p.s. Github用作图床的时候，有时候会因为网络原因导致上传失败，我习惯的解决方案就是打开PicGo，然后点击PicGo设置 —— 设置Server —— 开关一下  就行了*
