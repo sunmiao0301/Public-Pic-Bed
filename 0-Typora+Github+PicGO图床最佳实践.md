@@ -10,7 +10,7 @@
 
 **3.** 生成一个token用于PicGo操作你的仓库，生成token的具体操作如下：
 
-访问：https://github.com/settings/tokens，然后点击`Generate new token`。
+访问：https://github.com/settings/tokens 然后点击`Generate new token`。
 
 ![img](https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/generate_new_token.png)
 
@@ -34,7 +34,8 @@
 - 前边有星号的为必填项，依次填入之前创建的仓库名，注意是：账户名/仓库名；
 
 - 然后填入设定的分支名（创建仓库时如果没有创建其他分支，默认是 main 分支）；
-- 最后填入之前生成的 token 令牌，点击确定。
+- 最后填入之前生成的 token 令牌，点击设为默认图床；
+- 点击确定。
 
 ![image-20220322171449805](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203221714895.png)
 
