@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T21:24:28.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="MExbz_fYrrd-j2p4sO3U" type="github"><diagram name="第 1 页" id="VjDPmjTqEZdt3_LyexWj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-18T21:39:03.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Utc2k03RFCMw5hTcCnkD" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="VjDPmjTqEZdt3_LyexWj">
+    <mxGraphModel dx="1034" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hevJeYzp94SxdertEsLe-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="348" y="240" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="102.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-gear-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="102.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/math-equal-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="98" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/dicument-128.png" vertex="1" parent="1">
+          <mxGeometry x="334" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="372" y="72.5" width="26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/dicument-128.png" vertex="1" parent="1">
+          <mxGeometry y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="368" y="228" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="15" y="240" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="262.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="262.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-gear-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/math-equal-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="258" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-27" value="&lt;b&gt;Plaintext data&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-28" value="&lt;b&gt;Data Key&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-29" value="&lt;b&gt;Encryption&lt;br&gt;algorithm&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-30" value="&lt;b&gt;Encrypted data&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="146" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-37" value="" style="group" vertex="1" connectable="0" parent="hevJeYzp94SxdertEsLe-42">
+          <mxGeometry x="13" y="34" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="hevJeYzp94SxdertEsLe-37">
+          <mxGeometry x="55.38461538461539" y="3.085714285714286" width="34.61538461538461" height="54.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/dicument-128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="hevJeYzp94SxdertEsLe-37">
+          <mxGeometry y="5.142857142857143" width="54.85714285714286" height="54.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#7FBA42;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="hevJeYzp94SxdertEsLe-37">
+          <mxGeometry x="26.307692307692307" width="18" height="20.571428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="hevJeYzp94SxdertEsLe-37">
+          <mxGeometry x="69.23076923076923" width="20.76923076923077" height="20.571428571428573" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-blank-128.png" vertex="1" parent="hevJeYzp94SxdertEsLe-42">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="414" y="98" width="62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="414" y="237.5" width="62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-47" value="&lt;b&gt;Data Key&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-48" value="&lt;b&gt;Master Key&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-49" value="&lt;b&gt;Encryption&lt;br&gt;algorithm&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hevJeYzp94SxdertEsLe-50" value="&lt;b&gt;Encrypted data key&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
