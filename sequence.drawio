@@ -1,20 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T22:33:36.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="P-eFfnLl0b1rbULZ7qJc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T23:09:10.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ljzIoJC9k7WUz2apij4u" version="20.8.20" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2819" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2612" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="SSO System (IdP)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Fabula" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="220" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="220" y="40" width="100" height="960" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="SSO System (IdP)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-27" value="5.Register successfully" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=0.279;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="310" />
+              <mxPoint x="70" y="260" />
+              <mxPoint x="150" y="300" />
+              <mxPoint x="170" y="340" />
+              <mxPoint x="195" y="260" />
+              <mxPoint x="230" y="239.57999999999998" />
+            </Array>
+            <mxPoint x="120" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="2.Fabula asks SSO system to authenticate user" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry x="0.0061" relative="1" as="geometry">
@@ -27,9 +42,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="40" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-4" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="-90" as="sourcePoint" />
@@ -40,16 +52,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-9" value="OneCloud" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="580" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="580" y="40" width="100" height="960" as="geometry" />
         </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Sjwk3GnCQPSGXAsQl0JS-9">
-          <mxGeometry x="45" y="70" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-11" value="&lt;i&gt;Courses@Varwick&lt;/i&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-11" value="Courses@Varwick" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="100" height="960" as="geometry" />
         </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Sjwk3GnCQPSGXAsQl0JS-11">
-          <mxGeometry x="45" y="70" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="890" as="geometry" />
         </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-19" value="2.Fabula requires SSO to verify user identity" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,7 +75,7 @@
         </mxCell>
         <mxCell id="Sjwk3GnCQPSGXAsQl0JS-8" value="1.User requests for access to Fabula" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
           <mxGeometry x="0.0016" relative="1" as="geometry">
-            <mxPoint x="-55" y="140" as="sourcePoint" />
+            <mxPoint x="-90" y="140" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="40" y="140" />
               <mxPoint x="75" y="119.58" />
@@ -72,10 +84,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-60" y="130" width="10" height="180" as="geometry" />
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-110" y="40" width="30" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-21" value="3.SSO requires the user to register" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Sjwk3GnCQPSGXAsQl0JS-26">
+          <mxGeometry width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Sjwk3GnCQPSGXAsQl0JS-26">
+          <mxGeometry x="10" y="70" width="10" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-25" value="4.User enters valid username and password" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Sjwk3GnCQPSGXAsQl0JS-24" target="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry x="0.0041" relative="1" as="geometry">
+            <mxPoint x="-50" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="45" y="260" />
+              <mxPoint x="80" y="239.57999999999998" />
+            </Array>
+            <mxPoint x="80" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-21" value="3.SSO system requires the user to register" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Sjwk3GnCQPSGXAsQl0JS-24">
           <mxGeometry x="0.0084" relative="1" as="geometry">
             <mxPoint x="90" y="219" as="sourcePoint" />
             <Array as="points">
@@ -85,14 +114,141 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-25" value="4.User enters valid username and password" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-2">
-          <mxGeometry x="0.0016" relative="1" as="geometry">
-            <mxPoint x="-50" y="260" as="sourcePoint" />
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-28" value="6.SSO system requires user to log in" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0079" relative="1" as="geometry">
+            <mxPoint x="90" y="380" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="45" y="260" />
-              <mxPoint x="80" y="239.57999999999998" />
+              <mxPoint x="80" y="380" />
             </Array>
-            <mxPoint x="80" y="260" as="targetPoint" />
+            <mxPoint x="-90" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-30" value="7.User login&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="-90" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="420" />
+              <mxPoint x="75" y="399.58" />
+            </Array>
+            <mxPoint x="90" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-33" value="8.SSO system returns SAML assertion for accessing Fabula" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
+            <mxPoint x="90" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="460" />
+            </Array>
+            <mxPoint x="-90" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-34" value="9.Users access Fabula with SAML assertion" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="-90" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="500" />
+              <mxPoint x="75" y="479.58" />
+            </Array>
+            <mxPoint x="90" y="500" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-35" value="10.Fabula forwards SAML assertion to OneCloud" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="270" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="540" />
+              <mxPoint x="435" y="519.5799999999999" />
+            </Array>
+            <mxPoint x="630" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-41" value="11.OneCloud recognises the assertion" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.5833" y="-10" relative="1" as="geometry">
+            <mxPoint x="630" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="730" y="580" />
+              <mxPoint x="730" y="620" />
+              <mxPoint x="635" y="620" />
+            </Array>
+            <mxPoint x="630" y="620" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-42" value="12.OneCloud returns data accessible to the user" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
+            <mxPoint x="630" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="620" y="660" />
+            </Array>
+            <mxPoint x="270" y="660" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-43" value="13.Fabula returns the result of the server-side rendering to the user" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
+            <mxPoint x="270" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="700" />
+            </Array>
+            <mxPoint x="-90" y="700" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-44" value="14.User requests for access to Courses@Varwick" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="Sjwk3GnCQPSGXAsQl0JS-11">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="-90" y="740" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="740" />
+              <mxPoint x="75" y="719.5799999999999" />
+            </Array>
+            <mxPoint x="90" y="740" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-45" value="15.Courses@Varwick&amp;nbsp;asks SSO system to authenticate user" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="0.0061" relative="1" as="geometry">
+            <mxPoint x="450" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="780" />
+              <mxPoint x="375" y="760" />
+            </Array>
+            <mxPoint x="280" y="780" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-49" value="16.SSO system finds that the user is logged in" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="aM9ryv3xv72pqoxQDRHE-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="820" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint y="820" />
+              <mxPoint y="860" />
+            </Array>
+            <mxPoint x="85" y="850.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-50" value="8.SSO system returns SAML assertion for accessing&amp;nbsp;Courses@Varwick" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
+            <mxPoint x="90" y="900" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="900" />
+            </Array>
+            <mxPoint x="-90" y="900" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjwk3GnCQPSGXAsQl0JS-51" value="9.Users access&amp;nbsp;Courses@Varwick with SAML assertion" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="Sjwk3GnCQPSGXAsQl0JS-11">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint x="-90" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="940" />
+              <mxPoint x="75" y="919.5799999999999" />
+            </Array>
+            <mxPoint x="270" y="940" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
