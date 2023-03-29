@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T23:07:43.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lk1icCGNkE-j93T70B9h" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T23:11:19.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="m4paUyjmGne3rF7elFtD" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3208" dy="2055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3544" dy="2191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint x="171" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--2" value="Conference event" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--2" value="Conference event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="196" y="234" width="137" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--3" value="&amp;nbsp;occurrence number" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--13" target="PGQFbqdOMLLWhzAClPK7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--13" value="Track" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--13" value="Track" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="246" y="-8" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--15" value="type&amp;nbsp;&lt;br&gt;unique" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -128,7 +128,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--22" target="PGQFbqdOMLLWhzAClPK7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--22" value="session" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--22" value="session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="502" y="-410" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--26" value="session name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -175,7 +175,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--37" target="PGQFbqdOMLLWhzAClPK7-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--37" value="researcher" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--37" value="researcher" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="911" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--42" value="&amp;nbsp;first name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--50" target="PGQFbqdOMLLWhzAClPK7-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--50" value="institution" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--50" value="institution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1344" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--101" target="jLtFNhoKEC5xuxH08Q8--53" edge="1">
@@ -216,14 +216,6 @@
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--66" target="jLtFNhoKEC5xuxH08Q8--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PGQFbqdOMLLWhzAClPK7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--13" target="PGQFbqdOMLLWhzAClPK7-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-110" y="22" />
-              <mxPoint x="-110" y="380" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--66" value="每个会议至少有一个 &quot;track&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;每个track只能与一个会议相关" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="81" width="120" height="76" as="geometry" />
@@ -255,7 +247,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--78" value="一个research可以多个institution&lt;br&gt;&lt;br&gt;一个institution也可以有多个research&lt;br&gt;&lt;br&gt;隶属关系&lt;br&gt;affiliation" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--78" value="一个research可以多个institution&lt;br&gt;&lt;br&gt;一个institution也可以有多个research&lt;br&gt;&lt;br&gt;隶属关系&lt;br&gt;affiliation" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1167" y="-460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--83" target="jLtFNhoKEC5xuxH08Q8--84" edge="1">
@@ -300,7 +292,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--83" target="PGQFbqdOMLLWhzAClPK7-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--83" value="Paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--83" value="Paper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1468" y="616" width="113" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--84" value="paper_id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
@@ -327,7 +319,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--94" target="PGQFbqdOMLLWhzAClPK7-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--94" value="&lt;div&gt;一篇论文可以有任意数量的审稿人&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;一个研究人员可以审查任何数量的论文&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;一些提交的论文可能没有被分配到任何审稿人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如果他们不遵循该track的提交准则，就会被拒绝。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;审稿关系&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--94" value="&lt;div&gt;一篇论文可以有任意数量的审稿人&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;一个研究人员可以审查任何数量的论文&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;一些提交的论文可能没有被分配到任何审稿人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如果他们不遵循该track的提交准则，就会被拒绝。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;审稿关系&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1152" y="-25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--98" target="jLtFNhoKEC5xuxH08Q8--37" edge="1">
@@ -339,7 +331,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--98" target="PGQFbqdOMLLWhzAClPK7-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--98" value="1篇论文可以有一个或多个作者&lt;br&gt;&lt;br&gt;作者关系" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--98" value="1篇论文可以有一个或多个作者&lt;br&gt;&lt;br&gt;作者关系" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1065" y="151" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--101" target="jLtFNhoKEC5xuxH08Q8--37" edge="1">
@@ -356,7 +348,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--101" target="jLtFNhoKEC5xuxH08Q8--55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--101" value="supervision relations&lt;br&gt;&lt;br&gt;多对多" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--101" value="supervision relations&lt;br&gt;&lt;br&gt;多对多" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="1291" y="-316" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--105" target="jLtFNhoKEC5xuxH08Q8--118" edge="1">
@@ -368,7 +360,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--105" target="PGQFbqdOMLLWhzAClPK7-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--105" value="rejected paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--105" value="rejected paper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="924" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--106" target="jLtFNhoKEC5xuxH08Q8--120" edge="1">
@@ -380,8 +372,8 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--106" target="PGQFbqdOMLLWhzAClPK7-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--106" value="accepted paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="462" width="120" height="60" as="geometry" />
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--106" value="accepted paper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
+          <mxGeometry x="926" y="453" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--109" target="jLtFNhoKEC5xuxH08Q8--105" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -451,7 +443,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--148" target="PGQFbqdOMLLWhzAClPK7-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--148" value="registration options" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--148" value="registration options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="280" y="591" width="113" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--149" target="jLtFNhoKEC5xuxH08Q8--148" edge="1">
@@ -463,7 +455,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--149" target="PGQFbqdOMLLWhzAClPK7-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--149" value="每个会议都提供一种或多种类型的注册方式" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--149" value="每个会议都提供一种或多种类型的注册方式" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="363" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--153" value="type of the registration" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -513,7 +505,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--164" target="PGQFbqdOMLLWhzAClPK7-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--164" value="当一个研究人员登记参加会议时，系统会存储一个唯一的注册ID和注册日期。一个研究人员可以进行多次注册。" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--164" value="当一个研究人员登记参加会议时，系统会存储一个唯一的注册ID和注册日期。一个研究人员可以进行多次注册。" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="611" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--167" value="registration ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
@@ -527,7 +519,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--173" target="PGQFbqdOMLLWhzAClPK7-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--173" value="organisation committee" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--173" value="organisation committee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="-301" y="111" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGQFbqdOMLLWhzAClPK7-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--179" target="PGQFbqdOMLLWhzAClPK7-58">
@@ -536,7 +528,7 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--179" target="PGQFbqdOMLLWhzAClPK7-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--179" value="&lt;div&gt;组织委员会，由至少一名研究人员组成，帮助组织&lt;/div&gt;&lt;div&gt;会议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;一个研究人员可以参加多个会议的组织委员会。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;委员会组织关系&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--179" value="&lt;div&gt;组织委员会，由至少一名研究人员组成，帮助组织&lt;/div&gt;&lt;div&gt;会议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;一个研究人员可以参加多个会议的组织委员会。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;委员会组织关系&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="-73.5" y="-364" width="144.5" height="153.5" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--180" target="jLtFNhoKEC5xuxH08Q8--2" edge="1">
@@ -550,9 +542,6 @@
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--184" value="session_id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="779" y="44" width="71" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="PGQFbqdOMLLWhzAClPK7-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;尽管Each track is associated&lt;/div&gt;&lt;div&gt;with exactly one conference.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;每个track&lt;span style=&quot;background-color: initial;&quot;&gt;都与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;恰好与一个conference相关&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;但是还是要看每个人的理解&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-186" y="388" width="153" height="74" as="geometry" />
         </mxCell>
         <mxCell id="PGQFbqdOMLLWhzAClPK7-7" value="Conference id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="113" y="-60" width="64" height="60" as="geometry" />
@@ -632,10 +621,10 @@
         <mxCell id="PGQFbqdOMLLWhzAClPK7-63" value="表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-338" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PGQFbqdOMLLWhzAClPK7-65" value="registration&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-65" value="registration&lt;br&gt;options&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="109" y="635" width="48" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PGQFbqdOMLLWhzAClPK7-67" value="registration&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-67" value="registration&lt;br&gt;options&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="511" y="364" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PGQFbqdOMLLWhzAClPK7-68" value="Conference id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
