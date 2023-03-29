@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T23:03:21.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lEzGxui7HUM6MuWmw0Ac" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T23:07:43.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lk1icCGNkE-j93T70B9h" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3208" dy="2055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -160,13 +160,6 @@
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--37" target="jLtFNhoKEC5xuxH08Q8--101" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--164" target="jLtFNhoKEC5xuxH08Q8--148" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="651" y="578" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--37" target="jLtFNhoKEC5xuxH08Q8--173" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -483,15 +476,17 @@
           <mxGeometry x="306" y="704" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--160" value="date of registration" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="591" y="306" width="48" height="50" as="geometry" />
+          <mxGeometry x="622" y="361" width="48" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--37" target="jLtFNhoKEC5xuxH08Q8--164" edge="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--37" target="jLtFNhoKEC5xuxH08Q8--164" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="921" y="-350" as="sourcePoint" />
             <mxPoint x="508" y="578" as="targetPoint" />
             <Array as="points">
               <mxPoint x="921" y="-274" />
               <mxPoint x="665" y="-274" />
+              <mxPoint x="665" y="128" />
+              <mxPoint x="651" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -505,11 +500,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--164" value="一个研究人员可以进行多次注册。" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--164" target="jLtFNhoKEC5xuxH08Q8--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--164" target="PGQFbqdOMLLWhzAClPK7-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--164" target="PGQFbqdOMLLWhzAClPK7-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--164" value="当一个研究人员登记参加会议时，系统会存储一个唯一的注册ID和注册日期。一个研究人员可以进行多次注册。" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="611" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--167" value="registration ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="665" y="316" width="48" height="50" as="geometry" />
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--167" value="registration ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="677" y="338" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PGQFbqdOMLLWhzAClPK7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jLtFNhoKEC5xuxH08Q8--173" target="PGQFbqdOMLLWhzAClPK7-55">
           <mxGeometry relative="1" as="geometry">
@@ -632,6 +640,12 @@
         </mxCell>
         <mxCell id="PGQFbqdOMLLWhzAClPK7-68" value="Conference id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="503" y="422" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-72" value="Conference id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="289" width="71" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PGQFbqdOMLLWhzAClPK7-73" value="research_id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="808" y="242" width="71" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
