@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T00:41:04.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vanoc-dzeTZ6ZkN94XHq" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T10:24:45.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9O75ZxHg4kRAnOmRi8So" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="7080" dy="3520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2630" dy="1791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,7 +433,7 @@
         <mxCell id="jLtFNhoKEC5xuxH08Q8--186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jLtFNhoKEC5xuxH08Q8--125" target="jLtFNhoKEC5xuxH08Q8--184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLtFNhoKEC5xuxH08Q8--125" value="被接受的论文被分配到session（至少一个session）&lt;br&gt;&lt;br&gt;&lt;br&gt;每场会议至少有一篇论文分配给它。" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jLtFNhoKEC5xuxH08Q8--125" value="被接受的论文被分配到session（至少一个session）&lt;br&gt;&lt;br&gt;&lt;br&gt;每场会议至少有一篇论文分配给它。" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="691" y="-121" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jLtFNhoKEC5xuxH08Q8--144" value="展示人 researcher_id&lt;br&gt;&lt;br&gt;（被分配到一个特定会议的每篇论文 会议的每篇论文将由一名研究人员展示。一个研究人员可以在同一会议或不同会议上展示任何数量的论文。）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
