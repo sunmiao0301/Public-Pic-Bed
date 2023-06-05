@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T15:57:04.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NoBERXFFJ5qJkSrJTAXO" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T15:59:40.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bZ_edv9FkvNIXfZoGlxb" version="21.3.0" type="github">
   <diagram name="第 1 页" id="UZkDw6Ez3q2D44-KWNET">
     <mxGraphModel dx="860" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="Yn0-w5VhbwrrsI0HFecE-21" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yn0-w5VhbwrrsI0HFecE-22" value="On-premises data center " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Yn0-w5VhbwrrsI0HFecE-22" value="On-premises Data Center " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yn0-w5VhbwrrsI0HFecE-23" value="Public&amp;nbsp;Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
