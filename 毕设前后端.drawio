@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T10:19:36.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OxlAhsDZnRcxNmkP1DPA" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T10:21:55.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cxZyqSrcE2EQJGHnyhOb" version="21.6.8" type="github">
   <diagram name="第 1 页" id="hKjsUNpYbOX7yVgXXxMw">
     <mxGraphModel dx="1873" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,30 +12,30 @@
         </mxCell>
         <mxCell id="90S3NSIyCw6nQ_P8MRgn-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="sourcePoint" />
-            <mxPoint x="157.95" y="640" as="targetPoint" />
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="150" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="67.95" y="520" />
+              <mxPoint x="-40" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="90S3NSIyCw6nQ_P8MRgn-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Store Data&lt;br&gt;on the Blockchain&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-5">
+        <mxCell id="90S3NSIyCw6nQ_P8MRgn-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1.Store Data&lt;br&gt;on the Blockchain&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-5">
           <mxGeometry x="0.1499" y="-1" relative="1" as="geometry">
-            <mxPoint x="70" y="-8" as="offset" />
+            <mxPoint x="-44" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="90S3NSIyCw6nQ_P8MRgn-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="750" as="sourcePoint" />
-            <mxPoint x="160" y="290" as="targetPoint" />
+            <mxPoint x="175" y="640" as="sourcePoint" />
+            <mxPoint x="175" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-30" y="520" />
+              <mxPoint x="75" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="90S3NSIyCw6nQ_P8MRgn-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Transaction&lt;br&gt;Confirmation&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-9">
+        <mxCell id="90S3NSIyCw6nQ_P8MRgn-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2.Transaction&lt;br&gt;Confirmation&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-9">
           <mxGeometry x="-0.1246" y="3" relative="1" as="geometry">
-            <mxPoint x="-81" y="-68" as="offset" />
+            <mxPoint x="55" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="90S3NSIyCw6nQ_P8MRgn-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -47,9 +47,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="90S3NSIyCw6nQ_P8MRgn-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Data&lt;br&gt;Query&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-11">
+        <mxCell id="90S3NSIyCw6nQ_P8MRgn-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;3.Data&lt;br&gt;Query&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-11">
           <mxGeometry x="0.1648" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="90S3NSIyCw6nQ_P8MRgn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -61,9 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="90S3NSIyCw6nQ_P8MRgn-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Query&lt;br&gt;Result&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-13">
+        <mxCell id="90S3NSIyCw6nQ_P8MRgn-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;4.Query&lt;br&gt;Result&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="90S3NSIyCw6nQ_P8MRgn-13">
           <mxGeometry x="-0.173" relative="1" as="geometry">
-            <mxPoint x="60" y="-65" as="offset" />
+            <mxPoint x="33" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
